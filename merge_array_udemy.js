@@ -21,7 +21,7 @@ const mergeArray = (arr1, arr2) => {
     array.push(arr1[i]);
     i++;
   }
-  while(j < arr2.lenght) {
+  while(j < arr2.length) {
     array.push(arr2[j]) 
     j++;
   }
